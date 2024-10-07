@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://ditya-technolabs.github.io/sitemap.xml
+Sitemap: https://dityatechnolabs.com/sitemap.xml
